@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+    <rect width="400" height="400" fill="#F1F5F9"/>
+    <g transform="translate(200, 185)">
+        <path d="M-70,-35 L0,-70 L70,-35 L70,35 L0,70 L-70,35 Z"
+              fill="none" stroke="#4F46E5" stroke-width="5"
+              stroke-linejoin="round"/>
+        <path d="M-70,-35 L0,0 L70,-35"
+              fill="none" stroke="#06B6D4" stroke-width="4"
+              stroke-linejoin="round"/>
+        <path d="M0,0 L0,70"
+              fill="none" stroke="#06B6D4" stroke-width="4"/>
+    </g>
+    <text x="200" y="330"
+          font-family="Arial, sans-serif" font-size="20" font-weight="bold"
+          fill="#64748B" text-anchor="middle">
+        No Image
+    </text>
+</svg>

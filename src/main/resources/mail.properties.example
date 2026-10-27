@@ -1,0 +1,8 @@
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587
+mail.smtp.auth=true
+mail.smtp.starttls=true
+mail.smtp.username=your-email@gmail.com
+mail.smtp.password=your-16-char-app-password
+mail.from=NexaMart <your-email@gmail.com>
+app.base.url=http://localhost:8080/NexaMart
